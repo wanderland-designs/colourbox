@@ -1,6 +1,6 @@
 /************************************************************************
   Name: Colour cube
-  Author: A.Y.Gielen (1664336), CE Group 21
+  Author: A.Y.Gielen
   Version: 1.0
   Date: April 10 2022
   Description: Colour cube is a teensy circuit to help colourblind children figure out the colour of their colour pencils.
